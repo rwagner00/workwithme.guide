@@ -6,6 +6,8 @@ layout: default
 
 [workwithme.guide](./) is a quick prototype for housing Work With Me documents so that they are publicly available and easy to review changes over time. This is accomplished by leveraging [GitHub Pages](https://pages.github.com/), based on the [Jekyll](https://jekyllrb.com/) [minimal theme](https://github.com/pages-themes/minimal).
 
+*See [Kuan Luo’s great post](https://www.cockroachlabs.com/blog/how-to-work-with-me/) if you’re new to Work With Me docs.*
+
 ## Work With Me Documents
 
 {% for p in site.pages %}

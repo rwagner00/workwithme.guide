@@ -5,8 +5,6 @@ picture: ./abloomston.jpg
 categories: [profile]
 ---
 
-*See [Kuan Luo’s great post](https://www.cockroachlabs.com/blog/how-to-work-with-me/) if you’re new to Work With Me docs.*
-
 ## Values and Personality
 
 * I aspire to be **self-reflexive**, to have and model **humility**.

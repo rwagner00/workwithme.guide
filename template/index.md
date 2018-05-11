@@ -7,8 +7,6 @@ full_name: First Last
 # categories: [profile]
 ---
 
-*See [Kuan Luo’s great post](https://www.cockroachlabs.com/blog/how-to-work-with-me/) if you’re new to Work With Me docs.*
-
 _Two important points about your Work With Me document:_
 
 1. It's your document—this is just a starting point to help you in beginning to write it. Feel free to add and
