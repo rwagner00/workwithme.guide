@@ -5,7 +5,7 @@ title: Home
 
 ## Summary
 
-[workwithme.guide](./) is a quick prototype for hosting Work With Me Guides. This is accomplished by leveraging [GitHub Pages](https://pages.github.com/), [Jekyll](https://jekyllrb.com/), and [minimal theme](https://github.com/pages-themes/minimal).
+[workwithme.guide](./) is a quick prototype for hosting Work With Me Guides. It's built using [GitHub Pages](https://pages.github.com/), [Jekyll](https://jekyllrb.com/), and [minimal theme](https://github.com/pages-themes/minimal).
 
 [Kuan Luo wrote a great post](https://www.cockroachlabs.com/blog/how-to-work-with-me/) about Work With Me Guides, if you're interested.
 
