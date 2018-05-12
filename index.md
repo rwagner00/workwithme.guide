@@ -10,8 +10,8 @@ layout: default
 
 ## Adding Your Work With Me Document
 
-1. Fork [this project](https://github.com/abloomston/workwithme.guide) on GitHub
-2. Copy [the template directory](https://github.com/abloomston/workwithme.guide/tree/master/template) to a new top-level sub-directory. This sub-directory name will be your link on `https://workwithme.guide/sub-directory-name`.
+1. Fork [this project]({{ site.github.repository_url }}) on GitHub
+2. Copy [the template directory]({{ site.github.repository_url }}/tree/master/template) to a new top-level sub-directory. This sub-directory name will be your link on `https://workwithme.guide/sub-directory-name`.
 3. Modify `index.md`, optionally adding a profile picture to the sub-directory.
 4. Commit your changes.
 5. Make a [Pull Request](https://help.github.com/articles/about-pull-requests/). This is how you will make changes to your Work With Me Document (for now--this is a prototype).
