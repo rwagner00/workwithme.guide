@@ -9,16 +9,6 @@ title: Home
 
 [Kuan Luo wrote a great post](https://www.cockroachlabs.com/blog/how-to-work-with-me/) about Work With Me Guides, if you're interested.
 
-## Adding Your Work With Me Guide
-
-1. Fork [workwithme.guide-myguide](https://github.com/abloomston/workwithme.guide-myguide) on GitHub.
-2. Modify `index.md`, optionally adding a profile picture to the top level directory.
-3. Fork [this project]({{ site.github.repository_url }}) on GitHub.
-4. Clone your fork. In your local sandbox run `git submodule add -b master https://github.com/USERNAME/workwithme.guide-myguide.git WWM_LINK` where `USERNAME` is your GitHub username and `WWM_LINK` is the link you'd like at `workwithme.guide/WWM_LINK`.
-5. Make a [Pull Request](https://help.github.com/articles/about-pull-requests/). This is how you will make changes to your Work With Me Guide (for now--this is a prototype).
-6. Once I merge your Pull Request your Work With Me Guide will be available at `workwithme.guide/WWM_LINK`.
-
-
 ## Work With Me Guides
 
 {% for p in site.pages %}
@@ -31,3 +21,7 @@ title: Home
       {% endif %}
    {% endif %}
 {% endfor %}
+
+## Adding Your Work With Me Guide
+
+If you'd like your Work With Me Guide here, see [the documentation](./adding-your-wwm-guide.html).
