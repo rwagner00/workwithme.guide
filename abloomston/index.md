@@ -1,5 +1,6 @@
 ---
 layout: profile
+title: Adam Bloomston
 full_name: Adam Bloomston
 picture: ./abloomston.jpg
 categories: [profile]

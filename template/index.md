@@ -1,5 +1,7 @@
 ---
 layout: profile
+# Set both of these to your name
+title: First Last
 full_name: First Last
 # To add a custom profile picture, add your profile picture to this directory, update, and uncomment the relative link below.
 # picture: ./profile.jpg
