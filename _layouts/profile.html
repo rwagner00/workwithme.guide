@@ -31,8 +31,8 @@
 
       </section>
       <footer>
-        {% if site.github.is_project_page %}
-        <p><a href="{{ site.github.repository_url | append: '/blob/master/' | append: page.path }}">View On <strong>GitHub</strong></a></p>
+        {% if page.github_url %}
+          <p><a href="{{ page.github_url }}blob/master/{{ page.name }}">View On <strong>GitHub</strong></a></p>
         {% endif %}
         <p><small><a href="{{ "/" | absolute_url }}">Work With Me</a> &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
