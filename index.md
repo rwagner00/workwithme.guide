@@ -11,12 +11,12 @@ title: Home
 
 ## Adding Your Work With Me Guide
 
-1. Fork [this project]({{ site.github.repository_url }}) on GitHub
-2. Copy [the template directory]({{ site.github.repository_url }}/tree/master/template) to a new top-level sub-directory. This sub-directory name will be your link on `https://workwithme.guide/sub-directory-name`.
-3. Modify `index.md`, optionally adding a profile picture to the sub-directory.
-4. Commit your changes.
+1. Fork [workwithme.guide-myguide](https://github.com/abloomston/workwithme.guide-myguide) on GitHub.
+2. Modify `index.md`, optionally adding a profile picture to the top level directory.
+3. Fork [this project]({{ site.github.repository_url }}) on GitHub.
+4. Clone your fork. In your local sandbox run `git submodule add -b master https://github.com/USERNAME/workwithme.guide-myguide.git WWM_LINK` where `USERNAME` is your GitHub username and `WWM_LINK` is the link you'd like at `workwithme.guide/WWM_LINK`.
 5. Make a [Pull Request](https://help.github.com/articles/about-pull-requests/). This is how you will make changes to your Work With Me Guide (for now--this is a prototype).
-6. Once I merge your Pull Request your Work With Me Guide will be available at `workwithme.guide/sub-directory-name`.
+6. Once I merge your Pull Request your Work With Me Guide will be available at `workwithme.guide/WWM_LINK`.
 
 
 ## Work With Me Guides
