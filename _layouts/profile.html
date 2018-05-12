@@ -15,11 +15,7 @@
     <div class="wrapper">
       <header>
         <h1>
-          {% if page.full_name %}
-            <a href="./">Work With Me: {{ page.full_name }}</a>
-          {% else %}
-            <a href="{{ "/" | absolute_url }}">Work With Me</a>
-          {% endif %}
+          <a href="./">Work With Me: {{ page.full_name }}</a>
         </h1>
 
         {% if page.picture %}
@@ -38,7 +34,7 @@
         {% if site.github.is_project_page %}
         <p><a href="{{ site.github.repository_url | append: '/blob/master/' | append: page.path }}">View On <strong>GitHub</strong></a></p>
         {% endif %}
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <p><small><a href="{{ "/" | absolute_url }}">Work With Me</a> &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
