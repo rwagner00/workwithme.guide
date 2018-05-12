@@ -16,7 +16,7 @@ title: Home
 3. Modify `index.md`, optionally adding a profile picture to the sub-directory.
 4. Commit your changes.
 5. Make a [Pull Request](https://help.github.com/articles/about-pull-requests/). This is how you will make changes to your Work With Me Document (for now--this is a prototype).
-6. Once I merge your Pull Request your Work With Me Document will be available at `https://workwithme.guide/sub-directory-name`.
+6. Once I merge your Pull Request your Work With Me Document will be available at `workwithme.guide/sub-directory-name`.
 
 
 ## Work With Me Documents
