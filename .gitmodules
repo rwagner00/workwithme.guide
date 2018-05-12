@@ -2,3 +2,7 @@
 	path = abloomston
 	url = https://github.com/abloomston/workwithme.guide-abloomston.git
 	branch = master
+[submodule "template"]
+	path = template
+	url = https://github.com/abloomston/workwithme.guide-template.git
+	branch = master
