@@ -10,3 +10,7 @@
 	path = craychee
 	url = https://github.com/craychee/workwithme.guide-myguide.git
 	branch = master
+[submodule "clintonPantheon"]
+	path = clintonPantheon
+	url = https://github.com/clintonPantheon/workwithme.guide-myguide.git
+	branch = master
