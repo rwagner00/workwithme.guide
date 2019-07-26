@@ -26,3 +26,7 @@
 	path = ianlofs
 	url = https://github.com/ianlofs/workwithme.guide-myguide.git
 	branch = master
+[submodule "andypantheor"]
+	path = andypantheor
+	url = https://github.com/andy-rose-pantheon/workwithme.guide-myguide.git
+	branch = master
