@@ -30,3 +30,7 @@
 	path = andypantheor
 	url = https://github.com/andy-rose-pantheon/workwithme.guide-myguide.git
 	branch = master
+[submodule "mattalexander"]
+	path = mattalexander
+	url = https://github.com/mattalexander-pantheon/workwithme.guide-myguide.git
+	branch = master
