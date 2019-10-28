@@ -34,3 +34,7 @@
 	path = mattalexander
 	url = https://github.com/mattalexander-pantheon/workwithme.guide-myguide.git
 	branch = master
+[submodule "pwtyler"]
+	path = pwtyler
+	url = https://github.com/pwtyler/workwithme.guide-myguide.git
+	branch = master
