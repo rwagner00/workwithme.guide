@@ -54,7 +54,3 @@
 	path = bhavdeepsinghb
 	url = https://github.com/bhavdeepsinghb/workwithme.guide-myguide.git
 	branch = master
-[submodule "brianweaver"]
-	path = brianweaver
-	url = https://github.com/namespacebrian/workwithme.guide-myguide.git
-	branch = master
