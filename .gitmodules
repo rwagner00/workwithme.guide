@@ -58,3 +58,7 @@
 	path = brianweaver
 	url = https://github.com/namespacebrian/workwithme.guide-myguide.git
 	branch = master
+[submodule "jdimitrov"]
+	path = jdimitrov
+	url = https://github.com/jdimitrov-pantheon/workwithme.guide-myguide.git
+	branch = master
