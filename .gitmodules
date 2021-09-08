@@ -62,3 +62,7 @@
 	path = batyaFeldman
 	url = https://github.com/BatyaFeldman/workwithme.guide-myguide.git
 	branch = master
+[submodule "johndewolf"]
+	path = johndewolf
+	url = https://github.com/johndewolf/workwithme.guide-myguide.git
+	branch = master
