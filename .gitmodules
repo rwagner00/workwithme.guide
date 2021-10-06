@@ -66,3 +66,7 @@
 	path = johndewolf
 	url = https://github.com/johndewolf/workwithme.guide-myguide.git
 	branch = master
+[submodule "jschalz"]
+	path = jschalz
+	url = https://github.com/jschalz/workwithme.guide-myguide.git
+	branch = master
