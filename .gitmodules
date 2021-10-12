@@ -72,4 +72,7 @@
 [submodule "jschalz"]
 	path = jschalz
 	url = https://github.com/jschalz/workwithme.guide-myguide.git
+[submodule "brucebradley"]
+	path = brucebradley
+	url = https://github.com/mufucaw/workwithme.guide-myguide.git
 	branch = master
