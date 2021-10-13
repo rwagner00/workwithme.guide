@@ -76,3 +76,7 @@
 	path = brucebradley
 	url = https://github.com/mufucaw/workwithme.guide-myguide.git
 	branch = master
+[submodule "jazzsequence"]
+	path = jazzsequence
+	url = https://github.com/jazzsequence/workwithme.guide-myguide.git
+	branch = master
