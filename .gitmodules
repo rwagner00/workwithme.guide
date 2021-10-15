@@ -76,3 +76,7 @@
 	path = brucebradley
 	url = https://github.com/mufucaw/workwithme.guide-myguide.git
 	branch = master
+[submodule "jesus-ortiz"]
+	path = jesus-ortiz
+	url = https://github.com/jeor0980/workwithme.guide-myguide.git
+	branch = master
