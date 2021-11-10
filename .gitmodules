@@ -72,6 +72,7 @@
 [submodule "jschalz"]
 	path = jschalz
 	url = https://github.com/jschalz/workwithme.guide-myguide.git
+  branch = master
 [submodule "brucebradley"]
 	path = brucebradley
 	url = https://github.com/mufucaw/workwithme.guide-myguide.git
@@ -79,4 +80,8 @@
 [submodule "jazzsequence"]
 	path = jazzsequence
 	url = https://github.com/jazzsequence/workwithme.guide-myguide.git
+  branch = master
+[submodule "jesus-ortiz"]
+	path = jesus-ortiz
+	url = https://github.com/jeor0980/workwithme.guide-myguide.git
 	branch = master
