@@ -58,10 +58,6 @@
 	path = jdimitrov
 	url = https://github.com/jdimitrov-pantheon/workwithme.guide-myguide.git
 	branch = master
-[submodule "batyaFeldman"]
-	path = batyaFeldman
-	url = https://github.com/BatyaFeldman/workwithme.guide-myguide.git
-	branch = master
 [submodule "raksprabhu"]
 	path = raksprabhu
 	url = https://github.com/raksprabhu/workwithme.guide-myguide.git
@@ -85,6 +81,10 @@
 	path = jesus-ortiz
 	url = https://github.com/jeor0980/workwithme.guide-myguide.git
 	branch = master
+[submodule "jspellman814"]
+	path = jspellman814
+	url = https://github.com/jspellman814/workwithme.guide-myguide.git
+	branch = main
 [submodule "jvoorhis"]
 	path = jvoorhis
 	url = https://github.com/jvoorhis/workwithme.guide-myguide.git
@@ -92,4 +92,28 @@
 [submodule "jryanwagner"]
 	path = jryanwagner
 	url = https://github.com/rwagner00/workwithme.guide-myguide.git
+	branch = master
+[submodule "jLauroPantheor"]
+	path = jLauroPantheor
+	url = https://github.com/john-lauro/workwithme.guide-myguide.git
+	branch = master
+[submodule "fredboyle"]
+	path = fredboyle
+	url = https://github.com/fredboyle/workwithme.guide-myguide.git
+	branch = master
+[submodule "mel-miller"]
+	path = mel-miller
+	url = https://github.com/mel-miller/workwithme.guide-myguide.git
+	branch = master
+[submodule "youngka"]
+	path = youngka
+	url = https://github.com/ferenein/workwithme.guide-myguide.git
+	branch = master
+[submodule "dmytro-nazarenko-pantheon"]
+	path = dmytro-nazarenko-pantheon
+	url = https://github.com/dmytro-nazarenko-pantheon/workwithme.guide-myguide.git
+	branch = master
+[submodule "maxm-pantheon"]
+	path = maxm-pantheon
+	url = https://github.com/maxmylyn-pantheon/workwithme.guide-myguide.git
 	branch = master
