@@ -58,10 +58,6 @@
 	path = jdimitrov
 	url = https://github.com/jdimitrov-pantheon/workwithme.guide-myguide.git
 	branch = master
-[submodule "batyaFeldman"]
-	path = batyaFeldman
-	url = https://github.com/BatyaFeldman/workwithme.guide-myguide.git
-	branch = master
 [submodule "raksprabhu"]
 	path = raksprabhu
 	url = https://github.com/raksprabhu/workwithme.guide-myguide.git
