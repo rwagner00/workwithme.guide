@@ -81,6 +81,10 @@
 	path = jesus-ortiz
 	url = https://github.com/jeor0980/workwithme.guide-myguide.git
 	branch = master
+[submodule "jspellman814"]
+	path = jspellman814
+	url = https://github.com/jspellman814/workwithme.guide-myguide.git
+	branch = main
 [submodule "jvoorhis"]
 	path = jvoorhis
 	url = https://github.com/jvoorhis/workwithme.guide-myguide.git
